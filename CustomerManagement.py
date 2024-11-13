@@ -78,6 +78,7 @@ def menu():
             store.display_all_customers()
         elif choice == '5':
             print("Kết thúc chương trình.")
+            print("Cảm ơn bạn đã sử dụng chương trình của chúng tôi!!")
             break
         else:
             print("Lựa chọn không hợp lệ, vui lòng chọn lại.")
