@@ -82,6 +82,6 @@ def menu():
             break
         else:
             print("Lựa chọn không hợp lệ, vui lòng chọn lại.")
-
+#Chào các bạn lại là Long đây
 # Khởi động menu
 menu()
